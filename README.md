@@ -24,3 +24,5 @@ Where and how to save? Income Trends, Savings % Trends, Spending % Trends, Net W
 3. Understanding how to utilize charts and construct DAX is measured.
 4. Creating visually appealing user interfaces.
 5. The dashboard gives a meaningful presentation.
+
+![](https://github.com/sandeeptomar007/Finance-Dashboard/blob/main/Finance%20Dashborad.png)
